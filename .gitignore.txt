@@ -1,0 +1,7 @@
+# .gitignore 
+15_graphs/
+16_bit_manipulation/
+17_preprocessor_and_macros/
+18_multi_file_projects/
+19_system_programming/
+
